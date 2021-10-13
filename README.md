@@ -12,7 +12,7 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Perfect-Personnel-Placement_frontend&metric=bugs)](https://sonarcloud.io/dashboard?id=Perfect-Personnel-Placement_frontend)
 
 NOTE: This is the frontend of the repository. To access the backend repository, refer to
-[Perfect-Personnel-Placement/backend](https://github.com/Perfect-Personnel-Placement/backend).
+[Drelek/Revature-P3-Backend](https://github.com/Drelek/Revature-P3-Backend).
 
 *The project is only built for Android. While we also worked on the P3 with iOS in mind, certain components get off-centered in iOS and all the bugs have not been fleshed out.*
 
